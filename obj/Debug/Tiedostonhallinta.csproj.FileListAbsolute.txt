@@ -1,0 +1,7 @@
+C:\Users\Manitou\source\repos\Tiedostonhallinta\Tiedostonhallinta\bin\Debug\Tiedostonhallinta.exe.config
+C:\Users\Manitou\source\repos\Tiedostonhallinta\Tiedostonhallinta\bin\Debug\Tiedostonhallinta.exe
+C:\Users\Manitou\source\repos\Tiedostonhallinta\Tiedostonhallinta\bin\Debug\Tiedostonhallinta.pdb
+C:\Users\Manitou\source\repos\Tiedostonhallinta\Tiedostonhallinta\obj\Debug\Tiedostonhallinta.csprojResolveAssemblyReference.cache
+C:\Users\Manitou\source\repos\Tiedostonhallinta\Tiedostonhallinta\obj\Debug\Tiedostonhallinta.csproj.CoreCompileInputs.cache
+C:\Users\Manitou\source\repos\Tiedostonhallinta\Tiedostonhallinta\obj\Debug\Tiedostonhallinta.exe
+C:\Users\Manitou\source\repos\Tiedostonhallinta\Tiedostonhallinta\obj\Debug\Tiedostonhallinta.pdb
